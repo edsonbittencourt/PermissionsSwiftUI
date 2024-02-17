@@ -1,6 +1,6 @@
 /* MARK: Allow Button */
 "button_allow" = "PERMITIR";
-"button_allowed" = "NEGAR";
+"button_allowed" = "PERMITIDO";
 "button_denied" = "NEGADO";
 "button_next" = "PRÓXIMO";
 
