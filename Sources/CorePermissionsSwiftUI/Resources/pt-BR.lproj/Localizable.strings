@@ -1,0 +1,19 @@
+/* MARK: Allow Button */
+"button_allow" = "PERMITIR";
+"button_allowed" = "NEGAR";
+"button_denied" = "NEGADO";
+"button_next" = "PRÓXIMO";
+
+/* MARK: UI labels */
+"permission_header" = "Requer permissões";
+"permission_primary_label" = "Para usar determinados recursos deste aplicativo, você precisa conceder permissões. Veja a descrição de cada permissão";
+"permission_secondary_label" = "As permissões são necessárias para que todos os recursos e funções funcionem corretamente. Se não for permitido, você deverá ativar as permissões nas configurações.";
+
+/* MARK: Permissions (name & description) */
+"camera_title" = "Câmera";
+"camera_description" = "Permitir uso da câmera";
+
+"health_title" = "Saúde";
+"health_description" = "Permitir acesso às suas informações de saúde";
+
+
